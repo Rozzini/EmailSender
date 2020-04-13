@@ -1,6 +1,0 @@
-04-13-2020-11-40
-Messages sending time: 04-13-2020-18-50
-Email sending to: Rozzinimr@gmail.com;
-Starting thread;
-Finishing thread, message sended;
-Email sending to: System.Net.Mail.MailMessage;
