@@ -1,40 +1,35 @@
 ﻿@model WebMailSender.Model
-    <style>
-        /*div {
-            height: 200px;
-            width: 400px;
-            background: white;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            margin-top: -100px;
-            margin-left: -200px;
+<!DOCTYPE html>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js" charset="utf-8"></script>
+<link href="~/CSS/IndexStyleSheet.css" rel="stylesheet" type="text/css" />
+<html>
+
+<body>
+
+    <from class="login-form">
+        <h1 >Registration to party</h1>
+        @using (Html.BeginForm("Create", "Home", FormMethod.Post))
+        {
+    <div class="txt">
+
+        <h4>Email</h4>
+        <span data-placeholder="Email"></span>
+        @Html.TextBoxFor(model => model.Email, new { Class = "txtb" })
+        <span data-placeholder="Email"></span>
+
+    </div>
+
+            <div class="txt">
+
+                <h4>Name</h4>
+                <span data-placeholder="Name"></span>
+                @Html.TextBoxFor(model => model.PersonName, new { Class = "txtb" })
+
+            </div>
+            <input style="color: black" type="submit" class="loginButton" value="Send" href="/home/Index" />
         }
+    </from>
+</body>
 
-        input {
-           
-            background: red;
-            
-        }*/
-    </style>
-    <h2>Registration to party</h2>
-@using (Html.BeginForm("Create", "Home", FormMethod.Post))
-{
-<div class="editor-label">
-
-    @Html.Label("Email")
-    @Html.TextBoxFor(model => model.Email)
-
-</div>
-
-<div class="editor-label">
-
-    @Html.Label("Name")
-    @Html.TextBoxFor(model => model.PersonName)
-
-</div>
-    <input type="submit" value="Send" href="/home/Index" />
-
-    
-}
-
+</html>

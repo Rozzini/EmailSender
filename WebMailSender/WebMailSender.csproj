@@ -23,4 +23,8 @@
     <Folder Include="Logger\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Images\KittenOrig.jpg" />
+  </ItemGroup>
+
 </Project>
