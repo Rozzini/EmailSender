@@ -1,0 +1,32 @@
+04-13-2020-13-23
+Messages sending time: 04-13-2020-18-50
+
+Starting thread;
+Thread name: Thread number: 0
+Email sending to: Rozzinimr@gmail.com;
+Did send message;
+
+Starting thread;
+Thread name: Thread number: 1
+Email sending to: jefimovvaleriy@gmail.com;
+Did send message;
+
+Starting thread;
+Thread name: Thread number: 2
+Email sending to: jefimovvaleriy@gmail.com;
+Did send message;
+
+Starting thread;
+Thread name: Thread number: 3
+Email sending to: raton.12@mail.com;
+Did send message;
+
+Starting thread;
+Thread name: Thread number: 4
+Email sending to: Rozzinimr@gmail.com;
+Did send message;
+
+Starting thread;
+Thread name: Thread number: 5
+Email sending to: raton.12@mail.com;
+Did send message;

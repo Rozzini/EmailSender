@@ -1,0 +1,40 @@
+04-13-2020-00-50
+Messages sending time: 04-13-2020-18-50
+04-13-2020-00-50
+Data add to data base: raton.12@mail.com Elena;
+04-13-2020-00-50
+Messages sending time: 04-13-2020-18-50
+04-13-2020-00-50
+Data add to data base: jefimovvaleriy@gmail.com Valera;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Did start thread;
+Did send message;

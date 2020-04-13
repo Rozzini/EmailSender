@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using FluentScheduler;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,8 +18,7 @@ namespace WebMailSender
 
         public static void Main(string[] args)
         {
-            EmailDispatching emailSender = new EmailDispatching();
-            emailSender.SendEMails();
+            JobManager.Initialize(new SheduleJobRegistry());
             CreateHostBuilder(args).Build().Run();
         }
 

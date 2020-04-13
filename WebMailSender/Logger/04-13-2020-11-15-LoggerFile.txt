@@ -1,0 +1,15 @@
+04-13-2020-11-15
+Messages sending time: 04-13-2020-18-50
+04-13-2020-11-15
+Data add to data base: jefimovvaleriy@gmail.com qwe;
+04-13-2020-11-15
+Data add to data base: raton.12@mail.com qqq;
+04-13-2020-11-15
+Data add to data base: Rozzinimr@gmail.com max;
+04-13-2020-11-15
+Data add to data base: raton.12@mail.com maxx;
+Will send message;
+Email sending to: Rozzinimr@gmail.com;
+Starting thread;
+Finishing thread, message sended;
+Email sending to: System.Net.Mail.MailMessage;

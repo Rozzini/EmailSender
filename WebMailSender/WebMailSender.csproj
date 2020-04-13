@@ -19,4 +19,8 @@
     <ProjectReference Include="..\MailSender\MailSender.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Logger\" />
+  </ItemGroup>
+
 </Project>

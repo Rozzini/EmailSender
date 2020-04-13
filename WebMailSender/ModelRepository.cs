@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MailSender;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -19,6 +20,9 @@ namespace WebMailSender
         public void CreateInvitation(Model Models)
         {
             AppContext.Models.Add(Models);
+            DateTime localDate = DateTime.Now;
+            string date = localDate.ToString("MM-dd-yyyy-HH-mm");
+            Logger.Default.Write(date + "\nData add to data base: " + Models.Email + " " + Models.PersonName + ";");
             AppContext.SaveChanges();
         }
     }

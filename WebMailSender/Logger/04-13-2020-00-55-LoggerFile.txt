@@ -1,0 +1,44 @@
+04-13-2020-00-55
+Messages sending time: 04-13-2020-18-50
+04-13-2020-00-55
+Messages sending time: 04-13-2020-18-50
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;
+Will send message;
+Will start thread;
+Email sending to: System.Net.Mail.MailMessage;
+Did start thread;
+Did send message;

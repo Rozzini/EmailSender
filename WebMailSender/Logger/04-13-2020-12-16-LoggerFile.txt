@@ -1,0 +1,26 @@
+04-13-2020-12-16
+Messages sending time: 04-13-2020-18-50
+Starting thread;
+essage sended;
+Email sending to: Rozzinimr@gmail.com;
+Did send message;
+Starting thread;
+essage sended;
+Email sending to: jefimovvaleriy@gmail.com;
+Did send message;
+Starting thread;
+essage sended;
+Email sending to: jefimovvaleriy@gmail.com;
+Did send message;
+Starting thread;
+essage sended;
+Email sending to: raton.12@mail.com;
+Did send message;
+Starting thread;
+essage sended;
+Email sending to: Rozzinimr@gmail.com;
+Did send message;
+Starting thread;
+essage sended;
+Email sending to: raton.12@mail.com;
+Did send message;

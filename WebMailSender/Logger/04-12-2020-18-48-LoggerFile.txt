@@ -1,0 +1,22 @@
+04-12-2020-18-48
+Messages sending time: 04-12-2020-18-50
+04-12-2020-18-48
+Data add to data base: myscat.kot@mail.ru asd;
+04-12-2020-18-48
+Data add to data base: myscat.kot@mail.ru Lena;
+04-12-2020-18-48
+Data add to data base: raton.12@mail.com max;
+04-12-2020-18-49
+Data add to data base: Rozzinimr@gmail.com Maksimka;
+04-12-2020-18-50
+Email sending to: Rozzinimr@gmail.com max;
+04-12-2020-18-50
+Email sending to: myscat.kot@mail.ru Elena;
+04-12-2020-18-50
+Email sending to: myscat.kot@mail.ru asd;
+04-12-2020-18-50
+Email sending to: myscat.kot@mail.ru Lena;
+04-12-2020-18-50
+Email sending to: raton.12@mail.com max;
+04-12-2020-18-50
+Email sending to: Rozzinimr@gmail.com Maksimka;
