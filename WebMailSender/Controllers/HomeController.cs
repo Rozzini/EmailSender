@@ -23,11 +23,12 @@ namespace WebMailSender.Controllers
 
 
         [HttpPost]
-        public void Create(Model User)
+        public IActionResult Create(Model User)
         {
             model.CreateInvitation(User);
             //model.SendEmails();
             Index();
+            return View();
         }
 
         [HttpPost]
